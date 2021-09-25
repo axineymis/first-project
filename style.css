@@ -4,3 +4,9 @@
     font-style: normal;
     font-weight: 400;
   }
+   @font-face {
+    src: url(https://code.s3.yandex.net/web-code/fonts/Lora-Regular.woff);
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+  }
